@@ -3,7 +3,7 @@
 - **Name:** Fatima Ezzahra
 - **GitHub username:** fatimaezzahra456
 
-A small starter web project used to practice the main Git and GitHub workflow: commits, branches, merging and synchronizing with a remote repository.
+A small starter web project, built step by step, used to practice the main Git and GitHub workflow: commits, branches, merging and synchronizing with a remote repository.
 
 ## Technologies
 
