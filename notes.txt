@@ -2,3 +2,4 @@ Personal development notes.
 
 Practiced selective staging with git add.
 Reviewed changes with git diff and git diff --staged.
+Second selective staging demo.
