@@ -1,0 +1,8 @@
+# local environment file (secrets)
+local.env
+
+# ignore normal log files
+*.log
+
+# but keep important.log visible to Git
+!important.log
